@@ -1,0 +1,33 @@
+{
+  "app": { "name": "TemporizadorFoco", "tagline": "Temporizador pomodoro sin registro" },
+  "nav": { "pomodoro": "Pomodoro", "stopwatch": "Cronómetro" },
+  "timer": {
+    "work": "Enfoque", "shortBreak": "Descanso corto", "longBreak": "Descanso largo",
+    "start": "Iniciar", "pause": "Pausar", "reset": "Reiniciar",
+    "session": "Sesión", "round": "Ronda"
+  },
+  "todo": {
+    "title": "Tareas de hoy", "placeholder": "Agregar tarea...",
+    "add": "Agregar", "estimatedLabel": "Est.", "unit": "",
+    "empty": "Agrega una tarea para empezar"
+  },
+  "stats": {
+    "title": "Registro de enfoque", "today": "Hoy", "thisWeek": "Esta semana",
+    "focusTime": "Tiempo de enfoque", "pomodoros": "Pomodoros",
+    "hours": "h", "minutes": "min", "noData": "Sin registros aún"
+  },
+  "share": {
+    "btn": "Compartir",
+    "title": "Enfoque de hoy",
+    "focused": "enfocado hoy",
+    "pomodoroCount": "pomodoros",
+    "story": "Historia", "feed": "Feed", "card": "Tarjeta",
+    "download": "Guardar imagen", "shareBtn": "Compartir",
+    "close": "Cerrar"
+  },
+  "settings": {
+    "title": "Ajustes", "work": "Tiempo de enfoque", "shortBreak": "Descanso corto",
+    "longBreak": "Descanso largo", "interval": "Descanso largo cada",
+    "autoLoop": "Bucle automático", "minuteUnit": "min", "save": "Guardar"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "app": { "name": "集中タイマー", "tagline": "登録不要ですぐ使えるポモドーロタイマー" },
+  "nav": { "pomodoro": "ポモドーロ", "stopwatch": "ストップウォッチ" },
+  "timer": {
+    "work": "集中", "shortBreak": "短い休憩", "longBreak": "長い休憩",
+    "start": "スタート", "pause": "一時停止", "reset": "リセット",
+    "session": "セッション", "round": "回"
+  },
+  "todo": {
+    "title": "今日のタスク", "placeholder": "タスクを追加...",
+    "add": "追加", "estimatedLabel": "予定", "unit": "個",
+    "empty": "タスクを追加してください"
+  },
+  "stats": {
+    "title": "集中記録", "today": "今日", "thisWeek": "今週",
+    "focusTime": "集中時間", "pomodoros": "ポモドーロ",
+    "hours": "時間", "minutes": "分", "noData": "記録なし"
+  },
+  "share": {
+    "btn": "シェア",
+    "title": "今日の集中記録",
+    "focused": "集中しました",
+    "pomodoroCount": "ポモドーロ",
+    "story": "ストーリー", "feed": "フィード", "card": "カード",
+    "download": "画像保存", "shareBtn": "シェア",
+    "close": "閉じる"
+  },
+  "settings": {
+    "title": "設定", "work": "集中時間", "shortBreak": "短い休憩",
+    "longBreak": "長い休憩", "interval": "長休憩の間隔",
+    "autoLoop": "自動ループ", "minuteUnit": "分", "save": "保存"
+  }
+}

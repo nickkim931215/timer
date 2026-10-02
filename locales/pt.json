@@ -1,0 +1,33 @@
+{
+  "app": { "name": "TimerFoco", "tagline": "Temporizador pomodoro sem cadastro" },
+  "nav": { "pomodoro": "Pomodoro", "stopwatch": "Cronômetro" },
+  "timer": {
+    "work": "Foco", "shortBreak": "Pausa curta", "longBreak": "Pausa longa",
+    "start": "Iniciar", "pause": "Pausar", "reset": "Reiniciar",
+    "session": "Sessão", "round": "Rodada"
+  },
+  "todo": {
+    "title": "Tarefas de hoje", "placeholder": "Adicionar tarefa...",
+    "add": "Adicionar", "estimatedLabel": "Est.", "unit": "",
+    "empty": "Adicione uma tarefa para começar"
+  },
+  "stats": {
+    "title": "Registro de foco", "today": "Hoje", "thisWeek": "Esta semana",
+    "focusTime": "Tempo de foco", "pomodoros": "Pomodoros",
+    "hours": "h", "minutes": "min", "noData": "Nenhum registro ainda"
+  },
+  "share": {
+    "btn": "Compartilhar",
+    "title": "Foco de hoje",
+    "focused": "focado hoje",
+    "pomodoroCount": "pomodoros",
+    "story": "Story", "feed": "Feed", "card": "Cartão",
+    "download": "Salvar imagem", "shareBtn": "Compartilhar",
+    "close": "Fechar"
+  },
+  "settings": {
+    "title": "Configurações", "work": "Tempo de foco", "shortBreak": "Pausa curta",
+    "longBreak": "Pausa longa", "interval": "Pausa longa a cada",
+    "autoLoop": "Loop automático", "minuteUnit": "min", "save": "Salvar"
+  }
+}

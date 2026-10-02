@@ -1,0 +1,33 @@
+{
+  "app": { "name": "FocusTimer", "tagline": "Minimalist pomodoro timer — no signup needed" },
+  "nav": { "pomodoro": "Pomodoro", "stopwatch": "Stopwatch" },
+  "timer": {
+    "work": "Focus", "shortBreak": "Short Break", "longBreak": "Long Break",
+    "start": "Start", "pause": "Pause", "reset": "Reset",
+    "session": "Session", "round": "Round"
+  },
+  "todo": {
+    "title": "Today's Tasks", "placeholder": "Add a task...",
+    "add": "Add", "estimatedLabel": "Est.", "unit": "",
+    "empty": "Add a task to get started"
+  },
+  "stats": {
+    "title": "Focus Log", "today": "Today", "thisWeek": "This Week",
+    "focusTime": "Focus Time", "pomodoros": "Pomodoros",
+    "hours": "h", "minutes": "m", "noData": "No records yet"
+  },
+  "share": {
+    "btn": "Share",
+    "title": "Today's Focus",
+    "focused": "focused today",
+    "pomodoroCount": "pomodoros",
+    "story": "Story", "feed": "Feed", "card": "Card",
+    "download": "Save Image", "shareBtn": "Share",
+    "close": "Close"
+  },
+  "settings": {
+    "title": "Settings", "work": "Focus", "shortBreak": "Short Break",
+    "longBreak": "Long Break", "interval": "Long Break Every",
+    "autoLoop": "Auto Loop", "minuteUnit": "min", "save": "Save"
+  }
+}

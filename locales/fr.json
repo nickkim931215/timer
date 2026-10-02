@@ -1,0 +1,33 @@
+{
+  "app": { "name": "MinuteurFocus", "tagline": "Minuteur pomodoro sans inscription" },
+  "nav": { "pomodoro": "Pomodoro", "stopwatch": "Chronomètre" },
+  "timer": {
+    "work": "Concentration", "shortBreak": "Pause courte", "longBreak": "Pause longue",
+    "start": "Démarrer", "pause": "Pause", "reset": "Réinitialiser",
+    "session": "Session", "round": "Tour"
+  },
+  "todo": {
+    "title": "Tâches du jour", "placeholder": "Ajouter une tâche...",
+    "add": "Ajouter", "estimatedLabel": "Est.", "unit": "",
+    "empty": "Ajoutez une tâche pour commencer"
+  },
+  "stats": {
+    "title": "Journal de concentration", "today": "Aujourd'hui", "thisWeek": "Cette semaine",
+    "focusTime": "Temps de concentration", "pomodoros": "Pomodoros",
+    "hours": "h", "minutes": "min", "noData": "Aucun enregistrement"
+  },
+  "share": {
+    "btn": "Partager",
+    "title": "Concentration du jour",
+    "focused": "concentré aujourd'hui",
+    "pomodoroCount": "pomodoros",
+    "story": "Story", "feed": "Feed", "card": "Carte",
+    "download": "Enregistrer", "shareBtn": "Partager",
+    "close": "Fermer"
+  },
+  "settings": {
+    "title": "Paramètres", "work": "Concentration", "shortBreak": "Pause courte",
+    "longBreak": "Pause longue", "interval": "Pause longue tous les",
+    "autoLoop": "Boucle auto", "minuteUnit": "min", "save": "Enregistrer"
+  }
+}

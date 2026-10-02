@@ -1,0 +1,33 @@
+{
+  "app": { "name": "가성비타이머", "tagline": "가입 없이 바로 쓰는 스터디 타이머" },
+  "nav": { "pomodoro": "포모도로", "stopwatch": "스톱워치" },
+  "timer": {
+    "work": "집중", "shortBreak": "짧은 휴식", "longBreak": "긴 휴식",
+    "start": "시작", "pause": "일시정지", "reset": "초기화",
+    "session": "세션", "round": "회차"
+  },
+  "todo": {
+    "title": "오늘 할 일", "placeholder": "할 일 입력...",
+    "add": "추가", "estimatedLabel": "예상", "unit": "개",
+    "empty": "할 일을 추가해보세요"
+  },
+  "stats": {
+    "title": "집중 기록", "today": "오늘", "thisWeek": "이번 주",
+    "focusTime": "집중 시간", "pomodoros": "포모도로",
+    "hours": "시간", "minutes": "분", "noData": "아직 기록이 없어요"
+  },
+  "share": {
+    "btn": "공유하기",
+    "title": "오늘의 집중 기록",
+    "focused": "집중했어요",
+    "pomodoroCount": "포모도로",
+    "story": "스토리", "feed": "피드", "card": "카드",
+    "download": "이미지 저장", "shareBtn": "공유",
+    "close": "닫기"
+  },
+  "settings": {
+    "title": "설정", "work": "집중 시간", "shortBreak": "짧은 휴식",
+    "longBreak": "긴 휴식", "interval": "긴 휴식 주기",
+    "autoLoop": "자동 반복", "minuteUnit": "분", "save": "저장"
+  }
+}

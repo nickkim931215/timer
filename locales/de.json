@@ -1,0 +1,33 @@
+{
+  "app": { "name": "FokusTimer", "tagline": "Pomodoro-Timer ohne Registrierung" },
+  "nav": { "pomodoro": "Pomodoro", "stopwatch": "Stoppuhr" },
+  "timer": {
+    "work": "Fokus", "shortBreak": "Kurze Pause", "longBreak": "Lange Pause",
+    "start": "Start", "pause": "Pause", "reset": "Reset",
+    "session": "Sitzung", "round": "Runde"
+  },
+  "todo": {
+    "title": "Heutige Aufgaben", "placeholder": "Aufgabe hinzufügen...",
+    "add": "Hinzufügen", "estimatedLabel": "Gepl.", "unit": "",
+    "empty": "Füge eine Aufgabe hinzu"
+  },
+  "stats": {
+    "title": "Fokus-Protokoll", "today": "Heute", "thisWeek": "Diese Woche",
+    "focusTime": "Fokuszeit", "pomodoros": "Pomodoros",
+    "hours": "Std", "minutes": "Min", "noData": "Noch keine Einträge"
+  },
+  "share": {
+    "btn": "Teilen",
+    "title": "Heutiger Fokus",
+    "focused": "fokussiert",
+    "pomodoroCount": "Pomodoros",
+    "story": "Story", "feed": "Feed", "card": "Karte",
+    "download": "Bild speichern", "shareBtn": "Teilen",
+    "close": "Schließen"
+  },
+  "settings": {
+    "title": "Einstellungen", "work": "Fokuszeit", "shortBreak": "Kurze Pause",
+    "longBreak": "Lange Pause", "interval": "Lange Pause alle",
+    "autoLoop": "Auto-Loop", "minuteUnit": "Min", "save": "Speichern"
+  }
+}
