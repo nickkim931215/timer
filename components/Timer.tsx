@@ -69,7 +69,7 @@ export default function Timer() {
       </div>
 
       {/* Session type pills */}
-      {timer.mode === 'pomodoro' && (
+      {timer.mode === 'routine' && (
         <div className="flex gap-2">
           {(['work', 'shortBreak', 'longBreak'] as SessionType[]).map(s => (
             <button
@@ -157,9 +157,9 @@ export default function Timer() {
             className="mt-2 text-xs font-semibold tracking-widest uppercase"
             style={{ color, letterSpacing: '0.12em', opacity: 0.85 }}
           >
-            {timer.mode === 'pomodoro' ? SESSION_LABELS[timer.sessionType] : t('nav.stopwatch')}
+            {timer.mode === 'routine' ? SESSION_LABELS[timer.sessionType] : t('nav.stopwatch')}
           </span>
-          {timer.mode === 'pomodoro' && (
+          {timer.mode === 'routine' && (
             <span className="mt-0.5 text-xs" style={{ color: 'var(--text-sub)', letterSpacing: '0.04em' }}>
               Round {timer.completedPomodoros + 1}
             </span>
@@ -213,7 +213,7 @@ export default function Timer() {
       </div>
 
       {/* Pomodoro dots */}
-      {timer.mode === 'pomodoro' && (
+      {timer.mode === 'routine' && (
         <div className="flex gap-2.5 items-center">
           {Array.from({ length: timer.settings.longBreakInterval }).map((_, i) => {
             const done = i < (timer.completedPomodoros % timer.settings.longBreakInterval);
