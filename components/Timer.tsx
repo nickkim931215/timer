@@ -49,7 +49,7 @@ export default function Timer() {
         className="flex rounded-2xl p-1 gap-0.5"
         style={{ background: 'rgba(139,111,78,0.08)', border: '1px solid var(--divider)' }}
       >
-        {(['pomodoro', 'stopwatch'] as TimerMode[]).map(m => (
+        {(['routine', 'stopwatch'] as TimerMode[]).map(m => (
           <button
             key={m}
             onClick={() => dispatch({ type: 'SET_MODE', mode: m })}
